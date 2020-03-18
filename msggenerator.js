@@ -11,7 +11,7 @@ $(function () {
   $(".centreBanner").hide();
   $(".resetButton").hide();
 
-  const rudeEightBallMessages = ["Go fuck yourself!",
+  const rudeEightBallMessages = ["Go f*ck yourself!",
   "Take a shower", "Screw you", "Your friends secretly hate you",
   "Love is on the way - but not in your case", "You\'ll always fall short",
   "You have a face only a blind man could love",
